@@ -1,11 +1,12 @@
 
-![Alt text](Logica.png?raw=true "Resolucion matematica")
-
 ---
 
-Desc:"Obtner Cantidad de dias, dados un mes y un año.
+Descripción:"Obtener Cantidad de dias, dados un mes y un año.
       El rango de años es de 1583 a 3021. 
----      
+---
+
+![Alt text](Logica.png?raw=true "Resolucion matematica")
+      
 
 **Grupo:**
             - Conte, Hernan Antonio

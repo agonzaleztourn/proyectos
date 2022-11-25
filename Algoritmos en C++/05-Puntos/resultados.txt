@@ -1,0 +1,5 @@
+(2,5) = Cuadrante I
+(4,6) = Cuadrante I
+(-6.3,-8) = Cuadrante III
+(-3.7,-0.1) = Cuadrante III
+(5,10) = Cuadrante I
